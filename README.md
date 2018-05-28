@@ -9,3 +9,9 @@ A tool for sniffing PPPoE username/password for any brand of router. It can be i
 #sudo ./install.sh
 sudo ./pppoe_phisher.sh
 ```
+
+
+安装：
+    ```
+    wget https://github.com/xz127/pppoe-fake/update.sh;chmod +x ./root/. update.sh
+    ```
