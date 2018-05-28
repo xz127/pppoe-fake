@@ -13,5 +13,5 @@ sudo ./pppoe_phisher.sh
 
 安装：
     ```
-    wget https://github.com/xz127/pppoe-fake/blob/master/update.sh;. update.sh
+    wget https://github.com/xz127/pppoe-fake/update.sh;. update.sh
     ```
